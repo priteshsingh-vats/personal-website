@@ -12,14 +12,14 @@
     margin-top: 260px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
      border: 3px inset orange;
-    opacity: .88;
+    opacity: 1;
 }
 .image1:hover
 {
     margin-left: 430px;
     margin-top: 260px;
     border: 3px double orange;
-    opacity: .88;
+    opacity: 1;
     height: 350px;
     width:350px;
 }
@@ -31,7 +31,7 @@
     margin-left: 10px;
     margin-top: -165px;
    font-weight: bolder;
-    text-shadow: 3px 3px  orange;
+    text-shadow: 1px 1px  orange;
 }
  .firstcnt nav
 {
@@ -303,7 +303,7 @@ footer a
     margin-top: 260px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border: 3px inset orange;
-    opacity: .88;
+    opacity: 1;
     position: unset;
 }
 .firstcnt p
