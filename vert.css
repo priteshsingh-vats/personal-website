@@ -4,25 +4,27 @@
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("A+ Gallery_306_1.jpg") ;height: 750px; width 100px;background-position: center; background-repeat: no-repeat;background-size: cover;
     background-attachment:fixed;
 }
-
+/* profile pic image */
 .image1
 {
     border-radius: 500px;
     margin-left: 430px;
     margin-top: 260px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-     border: 3px inset orange;
+     border: 3px inset red;
     opacity: 1;
 }
+/* shows the hover effect when cursor moves on it*/
 .image1:hover
 {
     margin-left: 430px;
     margin-top: 260px;
-    border: 3px double orange;
+    border: 3px double pink;
     opacity: 1;
     height: 350px;
     width:350px;
 }
+/* containers*/
  .firstcnt p
 {
     color:lightseagreen;
@@ -31,13 +33,14 @@
     margin-left: 10px;
     margin-top: -165px;
    font-weight: bolder;
-    text-shadow: 1px 1px  orange;
+    text-shadow: 1px 1px  pink;
 }
  .firstcnt nav
 {
     
     color:white;
 }
+/* second containers*/
 .secondcnt
 {
   
@@ -56,6 +59,7 @@
         text-shadow: 3px 3px  grey;
     font-weight: bolder;
 }
+/* third containers*/
  .thirdcnt
 {
     background:grey;
@@ -71,6 +75,7 @@
     border-radius: 50px;
     margin-top: 40px;
 }
+/*fourth container*/
 .forthcnt
 {
     background: white;
@@ -92,12 +97,14 @@
     color:black;
     font-size: 20px;
 }
+/* 3rd container image*/
  .thirdcnt img
 {
    margin-top: 10px;
     border-radius: 10px;
     box-shadow:4px 4px white;
 }
+/* 4th container image*/
 .forthcnt img
 {
    margin-top: 10px;
@@ -191,7 +198,7 @@ background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
     color:white;
     font-size:40px;
     margin-top:10px;
-    font-family: serif;
+    font-family: manospace;
 }
 .project
 {
@@ -290,7 +297,7 @@ footer a
       background-color: aqua;
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("A+ Gallery_306_1.jpg") ;height: 750px; background-position: center; background-repeat: no-repeat;background-size: cover;
     background-attachment:fixed;
-    width:550px;
+    width:551px;
 }
 #cnt1 img
 {
@@ -302,13 +309,13 @@ footer a
     margin-left: 430px;
     margin-top: 260px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border: 3px inset orange;
+    border: 3px inset pink;
     opacity: 1;
     position: unset;
 }
 .firstcnt p
 {
-    font-size:35px;
+    font-size:36px;
 }
 .secondcnt
 {
@@ -373,6 +380,7 @@ footer a
 background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
 width:710px;
 }
+    /* project container display */
 .project
 {
   height:320vh;
